@@ -1,0 +1,54 @@
+/**
+ * Project: sportyshoes
+ * Package: 
+ * Created By: Mehmet Baran Ozkutuk
+*/
+.container {
+    margin-top: 400px;
+    margin-bottom: 400px;
+    padding-right: 20px;
+    padding-left: 10px;
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+.form {
+    padding-right: 220px;
+    padding-left: 220px;
+}
+
+.text-field {
+    display: block;
+    margin-left: -200px;
+}
+
+.field-label {
+    margin-left: -200px;
+}
+
+.field-label-2 {
+    margin-left: -200px;
+}
+
+.text-field-2 {
+    margin-left: -200px;
+}
+
+.submit-button {
+    margin-left: -200px;
+}
+
+.div-block {
+    margin: 300px 700px;
+    background-color: rgba(0, 0, 0, 0.06);
+}
+
+.form-block-2 {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.submit-button-2 {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+    
